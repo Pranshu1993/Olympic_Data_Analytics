@@ -1,4 +1,4 @@
-Tokyo Olympics Dataset
+### Tokyo Olympics Dataset
 This repository contains scripts and instructions for ingesting, transforming, and analyzing the Tokyo Olympics dataset using various Azure services.
 
 Dataset
@@ -28,7 +28,7 @@ Retrieve data from tables using SQL queries.
 Perform analysis using graphs or other visualization tools available in Azure Synapse.
 
 Contributors
-Pranshu1993
+[Pranshu1993](https://github.com/Pranshu1993)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
