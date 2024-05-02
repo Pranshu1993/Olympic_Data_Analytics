@@ -2,7 +2,7 @@ Tokyo Olympics Dataset
 This repository contains scripts and instructions for ingesting, transforming, and analyzing the Tokyo Olympics dataset using various Azure services.
 
 Dataset
-The dataset used for this project is available at Tokyo Olympics Dataset. It includes data related to the Tokyo Olympics.
+The dataset used for this project is available at [Tokyo Olympics Dataset](https://github.com/Pranshu1993/Olympic_Data_Analytics/tree/main/Datasets). It includes data related to the Tokyo Olympics.
 
 Ingesting Data into Azure Container using Azure Data Factory & Data Gen Lake 2
 To ingest the dataset into an Azure container using Azure Data Factory, follow these steps:
