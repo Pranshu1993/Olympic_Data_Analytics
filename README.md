@@ -27,7 +27,7 @@ Ingest the transformed data into Azure Synapse.
 Retrieve data from tables using SQL queries.
 Perform analysis using graphs or other visualization tools available in Azure Synapse.
 
-Contributors
+Contributors  
 [Pranshu1993](https://github.com/Pranshu1993)
 
 License
