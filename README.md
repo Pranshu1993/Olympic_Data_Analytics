@@ -28,7 +28,7 @@ Retrieve data from tables using SQL queries.
 Perform analysis using graphs or other visualization tools available in Azure Synapse.
 
 Contributors  
-[Pranshu1993](https://github.com/Pranshu1993)
+[Pranshu Shrivastava](https://github.com/Pranshu1993)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
